@@ -11,9 +11,9 @@ Social media API routes that uses CRUD principles for users, reacts and the thou
 ## Tabel of Contents
 
 * [Installation](#installation)
+* [Start](#Start)
 * [Usage](#usage)
 * [Contribute](#contribute)
-* [Tests](#tests)
 * [Screenshots](#screenshots)
 * [Technology](#technology)
 * [Making](#making)
@@ -25,6 +25,12 @@ In order to run this application, you will need to install the following
 
 - git clone
 - npm install
+
+## Start
+
+To run please use the following command after install:
+
+- npm start
 
 
 ## Usage
@@ -50,19 +56,12 @@ In order to contribute to this app, you will need to understand the following;
 - NoSQL
 
 
-## Start
-
-To run tests, please use the following command:
-
-- npm start
-
 ## Screenshots of deployed app
 
-* NEED to add 
 
-![image_one]()
+![image_one](images/insonmia.png)
 
-![image_two]())
+![image_two](images/insonmia2.png)
 
 
 ## Technology
@@ -79,23 +78,25 @@ To run tests, please use the following command:
 
 These are the screenshots of the code 
 
-* NEED to add *
+User Routes
 
-![Code-Snippet]()
+![Code-Snippet](images/userRoutes.png)
 
+Thought Routes
 
+![Code-Snippet](images/thoughtRoutes.png)
 
-![Code-Snippet]()
+User Schema
 
+![Code-Snippet](images/userSchema.png)
 
+Thought Schema
 
-![Code-Snippet]()
+![Code-Snippet](images/thoughtSchema.png)
 
+Reaction Schema
 
-![Code-Snippet]()
-
-
-![Code-Snippet]()
+![Code-Snippet](images/reactionSchema.png)
 
 ## Questions
 
