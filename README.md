@@ -19,6 +19,10 @@ Social media API routes that uses CRUD principles for users, reacts and the thou
 * [Making](#making)
 * [Questions](#questions)
 
+## WALKTHOUGHT VIDEO
+
+![GIF](images/socialnetworkAPI.gif)
+
 ## Installation
 
 In order to run this application, you will need to install the following
